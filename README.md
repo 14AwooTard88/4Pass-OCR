@@ -1,6 +1,8 @@
 # 4chan Captcha Bypass (OCR)
-## Related
+
 This repo only contains OCR.
+
+## Related
 
 For Cleaning/Spliting Captcha refer to:
 https://github.com/14AwooTard88/4Pass-CleanSplit
