@@ -71,12 +71,15 @@ https://github.com/zdenop/qt-box-editor/releases/tag/v1.12rc1
 You should see this in the out.txt:
 
 0_Clean.png (No clean, No Split): 
+
 ![Imgur](https://i.imgur.com/r1HLB4x.png)
 
 0_Clean.png (Clean, No split): 
+
 ![Imgur](https://i.imgur.com/YtOqim1.png)
 
 0_Split.png (Clean, Split): 
+
 ![Imgur](https://i.imgur.com/VWvyWuh.png)
 
 As you can see, the **best result that the ones that are fully cleaned and has gap in between the letters**
@@ -111,6 +114,7 @@ Edit the letters to make sure it's correct
 ![Imgur](https://i.imgur.com/VWaGsPg.png)
 
 Save it
+
 ![Imgur](https://i.imgur.com/lGNU0IA.png)
 
 5. **Train your data**
