@@ -2,6 +2,8 @@
 
 This repo only contains OCR.
 
+![Imgur](https://i.imgur.com/VWvyWuh.png)
+
 ## Related
 
 For Cleaning/Spliting Captcha refer to:
