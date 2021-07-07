@@ -20,9 +20,8 @@ However, what i do know is that new changes means new exploits. And as an autist
 
 
 ## Project Summary
-For now the trained data is absolute garbage
 
-In this project I'll show you how you can generate a*.traineddata* that can later be used in your C# project.
+In this project I'll show you how you can generate a *.traineddata* that can later be used in your Tesseract project.
 
 ## Tools
 ### Tesseract Ocr (4.0.0 rc3)
