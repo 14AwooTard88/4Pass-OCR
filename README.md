@@ -62,8 +62,11 @@ https://github.com/zdenop/qt-box-editor/releases/tag/v1.12rc1
 
 2. Open cmd and type:
 
+```
     cd "C:\Program Files (x86)\Tesseract-OCR"
+
     tesseract "C:\Path\To\Captcha.png" "C:\Path\To\Output" -l chan
+```
 
 You should see this in the out.txt:
 
