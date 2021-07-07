@@ -1,6 +1,6 @@
 # 4chan Captcha Bypass (OCR)
 
-This repo only contains OCR.
+This repo only contains OCR. For cleaning/spliting or scraping/posting please refer to the 'Related' section
 
 ![Imgur](https://i.imgur.com/VWvyWuh.png)
 
