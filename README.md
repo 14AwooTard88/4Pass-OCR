@@ -76,7 +76,7 @@ You should see this in the out.txt:
 
 As you can see, the **best result that the ones that are fully cleaned and has gap in between the letters**
 
-## Instructions (Advance)
+## Instructions (Advanced)
 The 'chan.traineddata' that was included was generated with realitively small dataset. To improve accuracy, it is best if you add your own dataset in addition to what was included.
 
 1. **Create your datasheet.png**
