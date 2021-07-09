@@ -1,6 +1,6 @@
 # Project Abandoned
 
-I will no longer be working on this project mostly out of guilt. There is 1 million post per day so roughly 500k per day split between blue and orange board. Google's reCaptcha cost $1000 per 1M post so they proably end up paying google $500 / day just for captcha or $185k/year just for captcha. One less google engineer mean one more 4chan engineer.
+I will no longer be working on this project mostly out of guilt. There is 1 million post per day so roughly 500k per day split between blue and orange board. Google's reCaptcha cost $1000 per 1M post so they proably end up paying google $500 / day just for captcha or $185k/year just for captcha. 1 less google engineer mean 3 more 4chan engineer. And maybe jannies will get paid this time.
 
 # 4chan Captcha Bypass (OCR)
 
